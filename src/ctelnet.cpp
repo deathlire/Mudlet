@@ -27,7 +27,6 @@
 
 #include "ctelnet.h"
 
-
 #include "Host.h"
 #include "TConsole.h"
 #include "TDebug.h"
@@ -65,12 +64,9 @@
 //    #define DEBUG
 //#endif
 
-
-
 #define DEBUG
 
 using namespace std;
-
 
 
 cTelnet::cTelnet( Host * pH )
